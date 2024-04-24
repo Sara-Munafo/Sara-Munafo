@@ -13,7 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sara-munafo&show_icons=true&theme=highcontrast&title_color=1c3a71&text_color=1a5fb4&bg_color=fdfee4&hide_border=true&locale=en&layout=compact" alt="sara-munafo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sara-munafo&show_icons=true&theme=cobalt&title_color=1c3a71&text_color=1a5fb4&bg_color=fdfee4&hide_border=true&locale=en" alt="sara-munafo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sara-munafo&theme=default" alt="sara-munafo" /></p>
 
